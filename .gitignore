@@ -1,0 +1,22 @@
+# Thư mục .vscode (các cấu hình của Visual Studio Code)
+.vscode/
+
+# Thư mục của Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+
+# Tệp của Visual Studio
+*.vcxproj
+*.vcxproj.user
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Tệp của hệ thống (Windows)
+Thumbs.db
+ehthumbs.db
+
+# Tệp của hệ thống macOS
+.DS_Store

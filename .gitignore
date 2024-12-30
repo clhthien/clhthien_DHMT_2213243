@@ -20,3 +20,6 @@ ehthumbs.db
 
 # Tệp của hệ thống macOS
 .DS_Store
+
+# Bỏ qua tệp VC.opendb
+ConsoleApplication2.VC.VC.opendb

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+f:\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(997): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1339): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> F:\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> F:\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
